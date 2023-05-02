@@ -14,7 +14,7 @@
   </head>
 
   <body>
-    <img src="images/valley.jpg" alt="valley" />
+  
    
 
     <div id="topMenu">
