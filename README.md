@@ -15,12 +15,7 @@
 
   <body>
     <img src="images/valley.jpg" alt="valley" />
-    <div id="promo">
-      <div>Free Estimate</div>
-      <div style="display:none;">Customer Satisfaction Guaranteed</div>
-      <div style="display:none;">Call for Free Estimate</div>
-      <div style="display:none;">Improve Visibility</div>
-    </div>
+   
 
     <div id="topMenu">
       <div class="wrap">
